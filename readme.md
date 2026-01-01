@@ -78,7 +78,7 @@ npm run dev            # Starts Next.js on http://localhost:3000
 ### Server
 - `npm run dev` — Start Express server with hot reload
 - `npm run dev:worker` — Start BullMQ worker for background PDF processing
-- `node search.js` - To document search and retrieval with help of Ollama llema3 Model installed Locally 
+- `node search.js` - To document search and retrieval with help of Ollama llama3 Model installed Locally 
 
 ### Client
 - `npm run dev` — Start Next.js development server
