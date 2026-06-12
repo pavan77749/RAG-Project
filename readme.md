@@ -16,7 +16,7 @@ This project is a Retrieval-Augmented Generation (RAG) application with a Next.j
 ## Prerequisites
 
 - Node.js (v18+ recommended)
-- npm or yarn
+- npm 
 - Docker (for Valkey/Redis)
 
 ---
